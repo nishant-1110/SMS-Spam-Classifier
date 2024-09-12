@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/nishant-1110/sms-spam-classifier.git
-pip install -r requirements.txt
+pip install -r requirements.txt then 
 write the command -> streamlit run app.py
 
 After running the project, enter an SMS message and click predict to see whether it is classified as spam or not.
